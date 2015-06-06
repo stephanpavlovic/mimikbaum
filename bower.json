@@ -1,0 +1,22 @@
+{
+  "name": "maik",
+  "version": "0.0.0",
+  "authors": [
+    "Stephan Pavlovic <stephan@railslove.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}
